@@ -1,4 +1,5 @@
 site_name: Internship Report
+docs_dir: learning-aws/docs
 
 theme:
   name: material
@@ -32,4 +33,5 @@ nav:
           - Week 1: worklog/week1.md
   - More:
       - AWS Group Info: 'https://www.facebook.com/groups/awsstudygroupfcj/'
+
 
