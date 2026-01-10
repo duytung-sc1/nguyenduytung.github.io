@@ -9,16 +9,14 @@ theme:
     - navigation.sections
     - navigation.top
     - content.code.copy
-  palette:
-    # Cấu hình cho tông màu Sáng (Mặc định)
-    - scheme: default
+palette:
+    - scheme: default # Đưa default lên đầu tiên
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    # Cấu hình cho tông màu Tối (Dự phòng)
-    - scheme: slate
+    - scheme: slate # Slate (tối) để xuống dưới
       primary: indigo
       accent: indigo
       toggle:
@@ -33,5 +31,6 @@ nav:
           - Week 1: worklog/week1.md
   - More:
       - AWS Group Info: 'https://www.facebook.com/groups/awsstudygroupfcj/'
+
 
 
