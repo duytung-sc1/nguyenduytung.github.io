@@ -1,4 +1,6 @@
-# INTERNSHIP REPORT
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="200">
+</p>
 
 ## Student Information
 
@@ -18,3 +20,4 @@
 
 <img src="img/profile.jpg" width="180"
      style="display:block;margin:auto;border-radius:12px;">
+
