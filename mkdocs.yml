@@ -29,8 +29,10 @@ nav:
       - Worklog:
           - Overview: worklog.md
           - Week 1: worklog/week1.md
+          - Week 2: worklog/week2.md
   - More:
       - AWS Group Info: 'https://www.facebook.com/groups/awsstudygroupfcj/'
+
 
 
 
